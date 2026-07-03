@@ -1,10 +1,10 @@
-# 🛒 NexaCart API
+#  Online Shopping Platform API
 
 Shopping Management System is a robust and scalable RESTful Web API built with **ASP.NET Core** to power modern e-commerce applications. It provides secure authentication, product and category management, shopping cart functionality, order processing, payment integration, and role-based authorization.
 
 ---
 
-## 🚀 Features
+## Features
 
 - JWT Authentication & Authorization
 - User Registration & Email Confirmation
@@ -20,7 +20,7 @@ Shopping Management System is a robust and scalable RESTful Web API built with *
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - ASP.NET Core Web API
 - Entity Framework Core
@@ -34,7 +34,7 @@ Shopping Management System is a robust and scalable RESTful Web API built with *
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```text
 NexaCart.API
@@ -52,7 +52,7 @@ NexaCart.API
 
 ---
 
-## ⚙️ Getting Started
+## Getting Started
 
 ### Configure the application
 
@@ -64,7 +64,7 @@ Update the following settings in `appsettings.json`:
 - Email Settings
 
 
-## 🔑 User Roles
+## User Roles
 
 ### Admin
 - Manage Products
@@ -79,7 +79,7 @@ Update the following settings in `appsettings.json`:
 
 ---
 
-## 📌 API Highlights
+##  API Highlights
 
 - Secure JWT-based Authentication
 - RESTful API Design
@@ -91,7 +91,7 @@ Update the following settings in `appsettings.json`:
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 **Hassan Soliman**
 
